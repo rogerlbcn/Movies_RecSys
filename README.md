@@ -1,8 +1,10 @@
 # Movies_RecSys
 
-<h1>A Recommender System of Movies <h1/>
+######################################
+### A Recommender System of Movies ###
+######################################
 
-<body>This repository includes a recommender system for movies, based on user ratings.
+This repository includes a recommender system for movies, based on user ratings.
 
 The dataset used is: "MovieLens full 25-million recommendation data" (ml-25m), retrieved from Kaggle. 
 
@@ -22,4 +24,4 @@ The goal with this RecSys is to create a recommendation engine, which recommends
 
 References:
 
-F. Maxwell Harper and Joseph A. Konstan. 2015. The MovieLens Datasets: History and Context. ACM Transactions on Interactive Intelligent Systems (TiiS) 5, 4: 19:1–19:19. https://doi.org/10.1145/2827872 <body/>
+F. Maxwell Harper and Joseph A. Konstan. 2015. The MovieLens Datasets: History and Context. ACM Transactions on Interactive Intelligent Systems (TiiS) 5, 4: 19:1–19:19. https://doi.org/10.1145/2827872 
