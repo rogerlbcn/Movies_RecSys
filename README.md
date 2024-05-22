@@ -4,6 +4,10 @@
 ## A Recommender System of Movies
 ######################################
 
+Recommender System implemented by Roger Lopez Benet  
+Tuesday, May 21st, 2024  
+San Francisco, CA
+
 # Movies_RecSys
 
 ## A Recommender System for Movies
